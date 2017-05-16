@@ -1,0 +1,18 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node_modules/.bin/istanbul cover --print detail _mocha -- test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0",
+    "sinon-chai": "^2.10.0",
+    "sinon-sandbox": "^1.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

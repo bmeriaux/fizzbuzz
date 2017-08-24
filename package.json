@@ -1,9 +1,10 @@
 {
   "name": "fizzbuzz",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple fizzbuzz",
   "scripts": {
-    "test": "node_modules/.bin/istanbul cover --print detail _mocha -- test"
+    "test": "node_modules/.bin/istanbul cover --print detail _mocha -- test",
+    "watch": "mocha --watch"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -13,6 +14,6 @@
     "sinon-chai": "^2.10.0",
     "sinon-sandbox": "^1.0.2"
   },
-  "author": "",
+  "author": "bmeriaux",
   "license": "ISC"
 }

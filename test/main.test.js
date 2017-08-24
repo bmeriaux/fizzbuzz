@@ -1,6 +1,6 @@
 "use strict";
-var expect = require("chai").expect;
-var main = require("../main");
+const expect = require("chai").expect;
+const main = require("../main");
 
 describe("fizzbuzz", () => {
     it("should return ....", () => {

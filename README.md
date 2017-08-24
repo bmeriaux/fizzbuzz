@@ -1,13 +1,13 @@
-#Fizzbuzz
+# Fizzbuzz
 Simple fizzbuzz exercise in Node
 
-##Usage:
+## Usage:
 - Run in a terminal and code :)
 ```
 $ npm install
 $ npm run watch
 ```
 
-##Requirements:
+## Requirements:
 
 - Node > 4.0
